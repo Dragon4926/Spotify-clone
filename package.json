@@ -1,9 +1,0 @@
-{
-  "name": "spotify-clone",
-  "version": "1.0",
-  "author":"@dragon4926",
-  "type": "module",
-  "dependencies": {
-    "express": "^4.21.0"
-  }
-}
